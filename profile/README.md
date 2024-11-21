@@ -8,3 +8,10 @@
   •
   <a href="https://docs.wraft.app/users/?utm_source=github">Contributing Guide</a>
 </h3>
+
+### Architecture
+
+Wraft has a split tech architecture where the frontend is in React and the backend is in Elixir.
+
+- [Backend repository](https://github.com/wraft/wraft)
+- [Frontend repository](https://github.com/wraft/wraft-frontend)
