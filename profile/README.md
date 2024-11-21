@@ -1,4 +1,4 @@
-<a href="https://www.wraft.app?utm_source=github"><img src="/images/cover.png" width="100%" alt="Wraft: Open-source, self-hosted Document Lifecycle Management">
+<a href="https://www.wraft.app?utm_source=github"><img src="/images/cover-2.png" width="100%" alt="Wraft: Open-source, self-hosted Document Lifecycle Management">
 </a>
 
 <h3 align="center">
